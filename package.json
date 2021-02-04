@@ -2,7 +2,7 @@
   "private": true,
   "name": "metro",
   "version": "0.45.6",
-  "devDependencies": {
+  "dependencies": {
     "@babel/core": "^7.0.0",
     "@babel/plugin-proposal-nullish-coalescing-operator": "^7.0.0",
     "@babel/plugin-proposal-optional-chaining": "^7.0.0",
@@ -71,6 +71,5 @@
       "<rootDir>/scripts/setupJest.js"
     ]
   },
-  "license": "MIT",
-  "dependencies": {}
+  "license": "MIT"
 }
